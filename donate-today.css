@@ -11,14 +11,13 @@ body{
 .banner-decoration{
     text-align: center;
     color: white;
+    padding: 150px;
 }
 #top-banner-heading{
     font-size: 40px;
-    padding-top: 100px;
 }
 #top-banner-prgph{
-    font-size: 25px;
-    padding: 30px;
+    padding: 40px;
 }
 .donation-link{
     text-decoration: none;
