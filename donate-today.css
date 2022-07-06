@@ -117,6 +117,8 @@ h4{
 .gallery h1{
     font-size: 50px;
     text-align: center;
+    margin-left: 100px;
+    margin-right: 85px;
     background-color: tomato;
 }
 .gallery-a{
