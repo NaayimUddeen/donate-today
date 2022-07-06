@@ -6,17 +6,17 @@ body{
     background-image: url(/images/donation7.jpg);
     background-repeat: no-repeat;
     width: 100%;
-    height: 600px;
+    height: 800px;
 }
 .banner-decoration{
     text-align: center;
     color: white;
-    padding: 150px;
+    padding: 300px;
 }
 #top-banner-heading{
-    font-size: 40px;
+    font-size: 60px;
 }
-#top-banner-prgph{
+#banner-prgph{
     padding: 40px;
 }
 .donation-link{
@@ -35,7 +35,13 @@ body{
     height: 600px;
 }
 #section-second-heading{
+}
+.section-second h1{
     font-size: 40px;
+
+}
+.section-second p{
+    color: gray;
 }
 .section-second-amount{
     text-align: center;
@@ -54,7 +60,13 @@ body{
 h2{
     margin-top: 50px;
 }
+h4{
+    padding: 20px;
+    color: gray;
+}
+
 #bdt-200{
     border: 3px solid tomato;
     color: tomato;
+    background-color: #ffcccc;
 }
