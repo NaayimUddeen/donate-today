@@ -109,6 +109,25 @@ h4{
     background-color: #fcf3d8;
     margin: 10px;
 }
+/* bonus-part-3-Section-4 */
+.gallery{
+    position: relative;
+
+}
+.gallery h1{
+    font-size: 50px;
+    text-align: center;
+    background-color: tomato;
+}
+.gallery-a{
+    height: 200px;
+    width: 800px;
+    margin-left: 100px;
+    position: absolute;
+    display: flex; 
+    flex-direction:row; 
+}
+
 /**Get My-Section-4**/
 
 .bonus-part-2{
@@ -116,6 +135,7 @@ h4{
 }
 .bonus-part-2 h1{
     font-size: 50px; 
+    margin-top: 300px;
 }
 .bonus-part-2 p{
     color: gray;
