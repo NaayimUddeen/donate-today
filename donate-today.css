@@ -28,7 +28,7 @@ body{
     padding: 15px;
     border-radius: 5px;
 }
-/**New Section**/
+/**2nd Section**/
 .section-second {
     text-align: center;
     width: 100%;
@@ -75,4 +75,37 @@ h4{
     padding-left: 300px;
     padding-right: 300px;
 }
+/**3rd Section**/
 
+.donate-plan-section{
+    box-sizing:content-box;
+    text-align: center;
+}
+.donate-plan-section h1{
+    font-size: 50px;
+}
+.donate-plan-section h3{
+    color: black;
+    font-size: 20px;
+}
+.donate-plan-section p{
+    color: gray;
+}
+.donate-plan-content{
+    display: flex;
+    margin: 100px;
+}
+.child-1{
+    background-color: #c6f0f0;
+    margin: 10px;
+}
+.child-2{
+    background-color: #faded8;
+    margin: 10px;
+
+}
+.child-3{
+    background-color: #fcf3d8;
+    margin: 10px;
+
+}
