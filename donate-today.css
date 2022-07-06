@@ -70,7 +70,7 @@ h4{
     text-align: center;
     color: gray;
     display:inline-flex;
-    border-bottom: 1px solid gray;
+    border-bottom: 1px solid rgb(209, 209, 209);
     padding: 10px;
     padding-left: 300px;
     padding-right: 300px;
@@ -80,6 +80,7 @@ h4{
 .donate-plan-section{
     box-sizing:content-box;
     text-align: center;
+    height: 600px;
 }
 .donate-plan-section h1{
     font-size: 50px;
@@ -107,5 +108,41 @@ h4{
 .child-3{
     background-color: #fcf3d8;
     margin: 10px;
+}
+/**Get My-Section-4**/
 
+.bonus-part-2{
+    text-align: center;
+}
+.bonus-part-2 h1{
+    font-size: 50px; 
+}
+.bonus-part-2 p{
+    color: gray;
+}
+.form{
+    width: 800px;
+    height: 100px;
+    background-color: #ffcccc;
+    margin-left: 255px;
+    margin-top: 50px;
+}
+#email {
+    font-size: larger;
+    margin-top: 30px;
+}
+#subscribe{
+    font-size: larger;
+    margin-top: 30px;
+}
+/**Footer**/
+.footer{
+    font-family: Brush Script MT,sans-serif;
+    font-size: larger;
+    height: 200px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
 }
